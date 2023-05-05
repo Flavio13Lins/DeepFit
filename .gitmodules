@@ -1,0 +1,3 @@
+[submodule "DeepFit"]
+	path = DeepFit
+	url = https://github.com/alemarotti1/DeepFit
